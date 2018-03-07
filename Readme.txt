@@ -20,6 +20,7 @@ Parents can
 	search for various videos from within the app
 	Call Swasthya Saathi (This is currently pointing to a static phone number)
 
+Video: https://www.youtube.com/watch?v=Etx2CXvDZ84&t=97s
 
 Notes:
 Reports are not implemented for any of the users
